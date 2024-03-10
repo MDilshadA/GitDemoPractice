@@ -1,0 +1,24 @@
+git commit -am "hi Mom"
+
+git clone
+ls
+cd learnGit
+ls means shwing file
+ls -la
+
+git log--> tel all the commit that has been done for this repo
+
+git log --patch -1  which line has been changed//git log -p -1
+
+git log --online --decorate
+
+git restore --staged text.txt
+
+git restore text.txt//git status
+
+cat text.txt  -->to print content in the file
+vim text.txt  --> to change some ontent  in file
+
+git remote -v
+
+git push origin master/main
